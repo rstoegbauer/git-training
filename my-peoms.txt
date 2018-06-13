@@ -1,0 +1,6 @@
+line1
+Hello World
+line3
+Hello Chief
+line5
+Lets Git It! lol
